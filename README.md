@@ -1,5 +1,5 @@
 interactive-python
-==================
+
 import random
 import simplegui
 
